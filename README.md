@@ -1,1 +1,1 @@
-# IT-Recruiter
+# Tech-Recruiter
